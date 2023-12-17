@@ -11,8 +11,8 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron:  '15 22 * * *'
-    # 毎日7時15分(JST)に実行
+    - cron:  '25 22 * * *'
+    # 毎日7時25分(JST)に実行
 
 permissions:
   contents: write
@@ -32,7 +32,7 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Run Python
-      run: python uni_get.py
+      run: python geki_get.py
 
     - name: Move data.json to public directory
       run: mv data.json public/
