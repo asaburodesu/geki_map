@@ -13,7 +13,7 @@ values = []
 value = ["タイムスタンプ","カテゴリ","画像","緯度","経度","スポット名","紹介文","Instagram","Twitter","公式サイト","Facebook"]
 values.append(value)
 
-url = 'https://location.am-all.net/alm/location?gm=109&ct=1000&at='
+url = 'https://location.am-all.net/alm/location?gm=88&ct=1000&at='
 
 for i in range(47):
     print(i)
