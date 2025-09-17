@@ -136,19 +136,6 @@
             "",
             "北海道",
             "",
-            "43.07983641819684",
-            "141.40381226137697",
-            "ソユーゲームフィールド苗穂店",
-            "札幌市東区東苗穂2条3-1-1　イオンモール札幌苗穂２Ｆ",
-            "",
-            "https://twitter.com/intent/tweet?text=北海道札幌市東区東苗穂2条3-1-1　イオンモール札幌苗穂２Ｆ%2Cソユーゲームフィールド苗穂店",
-            "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=23864",
-            ""
-        ],
-        [
-            "",
-            "北海道",
-            "",
             "43.09234016092269",
             "141.40699743068853",
             "キャッツアイ東苗穂店",
@@ -156,6 +143,19 @@
             "",
             "https://twitter.com/intent/tweet?text=北海道札幌市東区東苗穂６条２丁目１−２５%2Cキャッツアイ東苗穂店",
             "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=28992",
+            ""
+        ],
+        [
+            "",
+            "北海道",
+            "",
+            "43.07983641819684",
+            "141.40381226137697",
+            "ソユーゲームフィールド苗穂店",
+            "札幌市東区東苗穂2条3-1-1　イオンモール札幌苗穂２Ｆ",
+            "",
+            "https://twitter.com/intent/tweet?text=北海道札幌市東区東苗穂2条3-1-1　イオンモール札幌苗穂２Ｆ%2Cソユーゲームフィールド苗穂店",
+            "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=23864",
             ""
         ],
         [
@@ -377,19 +377,6 @@
             "",
             "https://twitter.com/intent/tweet?text=北海道千歳市美々1292番地33新千歳空港国内線旅客ﾀｰﾐﾅﾙﾋﾞﾙ4F%2Cアピナ新千歳空港店",
             "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=23995",
-            ""
-        ],
-        [
-            "",
-            "北海道",
-            "",
-            "43.008918973170516",
-            "144.40800352460633",
-            "ＭＥＧＡＧＥＴ釧路",
-            "釧路郡釧路町木場２丁目１ー１",
-            "",
-            "https://twitter.com/intent/tweet?text=北海道釧路郡釧路町木場２丁目１ー１%2CＭＥＧＡＧＥＴ釧路",
-            "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=24827",
             ""
         ],
         [
@@ -871,6 +858,19 @@
             "",
             "https://twitter.com/intent/tweet?text=宮城県仙台市青葉区一番町４丁目５番１３号サンシャインビル１階%2CＧｉＧＯ仙台一番町",
             "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=19372",
+            ""
+        ],
+        [
+            "",
+            "宮城県",
+            "",
+            "38.275706",
+            "140.8706628",
+            "ゲームフィールド仙台上杉店",
+            "仙台市青葉区堤通雨宮町１ー１イオンモール仙台上杉３階",
+            "",
+            "https://twitter.com/intent/tweet?text=宮城県仙台市青葉区堤通雨宮町１ー１イオンモール仙台上杉３階%2Cゲームフィールド仙台上杉店",
+            "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=18608",
             ""
         ],
         [
@@ -5466,19 +5466,6 @@
             "",
             "新潟県",
             "",
-            "37.88810958284381",
-            "139.01768674009077",
-            "ラウンドワン新潟店",
-            "新潟市中央区美咲町２−１−３８",
-            "",
-            "https://twitter.com/intent/tweet?text=新潟県新潟市中央区美咲町２−１−３８%2Cラウンドワン新潟店",
-            "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=25898",
-            ""
-        ],
-        [
-            "",
-            "新潟県",
-            "",
             "37.9163632",
             "139.0556101",
             "ＧｉＧＯ万代シティバスセンタービル",
@@ -5486,6 +5473,19 @@
             "",
             "https://twitter.com/intent/tweet?text=新潟県新潟市中央区万代１丁目６番１号%2CＧｉＧＯ万代シティバスセンタービル",
             "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=18896",
+            ""
+        ],
+        [
+            "",
+            "新潟県",
+            "",
+            "37.88810958284381",
+            "139.01768674009077",
+            "ラウンドワン新潟店",
+            "新潟市中央区美咲町２−１−３８",
+            "",
+            "https://twitter.com/intent/tweet?text=新潟県新潟市中央区美咲町２−１−３８%2Cラウンドワン新潟店",
+            "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=25898",
             ""
         ],
         [
@@ -5551,19 +5551,6 @@
             "",
             "https://twitter.com/intent/tweet?text=新潟県十日町市丑７３５−１%2CＨａｐｉｐｉＬａｎｄ十日町",
             "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=19637",
-            ""
-        ],
-        [
-            "",
-            "新潟県",
-            "",
-            "37.1542725",
-            "138.2556584",
-            "アピナ上越インター店",
-            "上越市富岡３４３９",
-            "",
-            "https://twitter.com/intent/tweet?text=新潟県上越市富岡３４３９%2Cアピナ上越インター店",
-            "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=25051",
             ""
         ],
         [
@@ -8066,6 +8053,19 @@
             "",
             "大阪府",
             "",
+            "34.64230804215337",
+            "135.51129129297635",
+            "Ｇ−ｐａｌａあべの",
+            "大阪市阿倍野区阿倍野筋３−１０−１あべのベルタ２Ｆ",
+            "",
+            "https://twitter.com/intent/tweet?text=大阪府大阪市阿倍野区阿倍野筋３−１０−１あべのベルタ２Ｆ%2CＧ−ｐａｌａあべの",
+            "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=24785",
+            ""
+        ],
+        [
+            "",
+            "大阪府",
+            "",
             "34.6465681",
             "135.5117823",
             "ＧｉＧＯあべのアポロ３階",
@@ -8222,19 +8222,6 @@
             "",
             "大阪府",
             "",
-            "34.5834551",
-            "135.4684377",
-            "ラウンドワン堺駅前店",
-            "堺市堺区戎島町4-44-3",
-            "",
-            "https://twitter.com/intent/tweet?text=大阪府堺市堺区戎島町4-44-3%2Cラウンドワン堺駅前店",
-            "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=25956",
-            ""
-        ],
-        [
-            "",
-            "大阪府",
-            "",
             "34.59404633945432",
             "135.48120863942563",
             "SOYU GAME FIELD堺鉄砲町店",
@@ -8242,6 +8229,19 @@
             "",
             "https://twitter.com/intent/tweet?text=大阪府堺市堺区鉄砲町1番地イオンモール堺鉄砲町3F%2CSOYU GAME FIELD堺鉄砲町店",
             "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=21081",
+            ""
+        ],
+        [
+            "",
+            "大阪府",
+            "",
+            "34.5834551",
+            "135.4684377",
+            "ラウンドワン堺駅前店",
+            "堺市堺区戎島町4-44-3",
+            "",
+            "https://twitter.com/intent/tweet?text=大阪府堺市堺区戎島町4-44-3%2Cラウンドワン堺駅前店",
+            "https://location.am-all.net/alm/shop?gm=88&astep=0&sid=25956",
             ""
         ],
         [
